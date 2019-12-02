@@ -3,9 +3,8 @@ import os
 import string
 import tempfile
 
-import numpy
-
 import meshio
+import numpy
 
 # In general:
 # Use values with an infinite decimal representation to test precision.
